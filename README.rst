@@ -38,10 +38,34 @@ Reference Pareto fronts
 | DTLZ7                    | 2 (101), 3(676), 4 (214), 6 (203), 8 (354)    |
 +--------------------------+-----------------------------------------------+
 
++--------------------------+---------------------+
+| Problem family: WFG [3]  | Objectives (points) |    
++==========================+=====================+
+| WFG1                     | 2 (1113), 3(2000)   |
++--------------------------+---------------------+
+| WFG2                     | 2 (119), 3 (2801)   |
++--------------------------+---------------------+
+| WFG3                     | 2 (796), 3(100)     |
++--------------------------+---------------------+
+| WFG4                     | 2 (1326), 3(9898)   |
++--------------------------+---------------------+
+| WFG5                     | 2 (837), 3(9901)    |
++--------------------------+---------------------+
+| WFG6                     | 2 (426), 3(9901)    |
++--------------------------+---------------------+
+| WFG7                     | 2 (2494), 3(9716)   |
++--------------------------+---------------------+
+| WFG8                     | 2 (527), 3(10009)   |
++--------------------------+---------------------+
+| WFG9                     | 2 (2600), 3(10201)  |
++--------------------------+---------------------+
+
+
 
 References
 ----------
 
-* [1] Zitzler, E., Deb, K., and Thiele, L. (2000). Comparison of Multiobjective Evolutionary Algorithms: Empirical Results. Evolutionary Computation 8(2).
-* [2] K. Deb, L. Thiele, M. Laumanns, and E. Zitzler. Scalable Test Problems for Evolutionary Multi-Objective Optimization, Zurich, Switzerland, Tech. Rep. 112, 2001.
+* [1] Zitzler, E., Deb, K., and Thiele, L. (2000). Comparison of Multiobjective Evolutionary Algorithms: Empirical Results. Evolutionary Computation 8(2). June 2000. DOI: https://dl.acm.org/doi/10.1162/106365600568202
+* [2] K. Deb, L. Thiele, M. Laumanns, and E. Zitzler. Scalable Test Problems for Evolutionary Multi-Objective Optimization. In Abraham A., Jain L., Goldberg R. (eds) Evolutionary Multiobjective Optimization. Advanced Information and Knowledge Processing. Springer, London. 2005. DOI: https://doi.org/10.1007/1-84628-137-7_6
+* [3] Simon Huband, Phil Hingston, Luigi Barone, and Lyndon While. A Review of Multi-objective Test Problems and a Scalable Test Problem Toolkit. IEEE Transactions on Evolutionary Computation, volume 10, no 5, pages 477-506. IEEE, October 2006. DOI: https://doi.org/10.1109/TEVC.2005.861417
 
