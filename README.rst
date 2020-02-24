@@ -60,6 +60,29 @@ Reference Pareto fronts
 | WFG9                     | 2 (2600), 3(10201)  |
 +--------------------------+---------------------+
 
++--------------------------+------------------------------------+
+| Problem family: MaF [4]  | Objectives (points)                |
++==========================+====================================+
+| MaF01                    | 5 (8855), 10 (7007), 15 (6120)     |
++--------------------------+------------------------------------+
+| MaF02                    | 5 (190), 10 (7007), 15 (6210)      |
++--------------------------+------------------------------------+
+| MaF03                    | 5 (8855), 10 (7007), 15 (6120)     |
++--------------------------+------------------------------------+
+| MaF04                    | 5 (8855), 10 (7007), 15 (6120)     |
++--------------------------+------------------------------------+
+| MaF05                    | 5 (8855), 10 (7007), 15 (6120)     |
++--------------------------+------------------------------------+
+| MaF06                    | 5 (100000), 10 (10000), 15 (10000) |
++--------------------------+------------------------------------+
+| MaF07                    | 5 (100000), 10 (19663), 15 (16384) |
++--------------------------+------------------------------------+
+| MaF08                    | 5 (5826), 10 (7188), 15 (7462)     |
++--------------------------+------------------------------------+
+| MaF09                    | 5 (5826), 10 (7188), 15 (7462)     |
++--------------------------+------------------------------------+
+
+
 
 
 References
@@ -68,4 +91,4 @@ References
 * [1] Zitzler, E., Deb, K., and Thiele, L. (2000). Comparison of Multiobjective Evolutionary Algorithms: Empirical Results. Evolutionary Computation 8(2). June 2000. DOI: https://dl.acm.org/doi/10.1162/106365600568202
 * [2] K. Deb, L. Thiele, M. Laumanns, and E. Zitzler. Scalable Test Problems for Evolutionary Multi-Objective Optimization. In Abraham A., Jain L., Goldberg R. (eds) Evolutionary Multiobjective Optimization. Advanced Information and Knowledge Processing. Springer, London. 2005. DOI: https://doi.org/10.1007/1-84628-137-7_6
 * [3] Simon Huband, Phil Hingston, Luigi Barone, and Lyndon While. A Review of Multi-objective Test Problems and a Scalable Test Problem Toolkit. IEEE Transactions on Evolutionary Computation, volume 10, no 5, pages 477-506. IEEE, October 2006. DOI: https://doi.org/10.1109/TEVC.2005.861417
-
+* [4] Ran Cheng, Miqing Li, Ye Tian, Xingyi Zhang, Shengxiang Yang, Yaochu Jin and Xin Yao " Benchmark Functions for the CEC'2018 Competition on Many-Objective Optimization",  Technical Report, University of Birmingham, United Kingdom, 2018.
