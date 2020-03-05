@@ -3,6 +3,26 @@ Mooses: Multiobjective optimization resources
 
 The Mooses project is intended to provide a repository of resources for multiobjective optimization with mateheuristics. It currently contains reference Pareto fronts for benchmark problems and weight vectors taken from the jMetal framework (https://github.com/jMetal/jMetal).
 
+Weight vector files
+-------------------
+The name of the vector files follow the scheme `WxD_y`, where `x` represents the number of dimensions or objectives and `y` is the number of vectors.
+
++---------------+------------------------+
+| Objectives    | Number of vectors      |                       
++===============+========================+
+|       2       | 300, 400, 500, 600, 800, 1000 |
++---------------+------------------------+
+|       3       | 91, 300, 500, 600, 800 |
++---------------+------------------------+
+|       5       | 495, 1000, 1200, 1500, 1800, 2000, 2050 |
++---------------+------------------------+
+|       10      | 220, 715                |
++---------------+------------------------+
+|       15      | 91, 300, 500, 600, 800 |
++---------------+------------------------+
+
+
+
 Reference Pareto fronts
 -----------------------
 
