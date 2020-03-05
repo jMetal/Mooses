@@ -5,7 +5,7 @@ The Mooses project is intended to provide a repository of resources for multiobj
 
 Weight vector files
 -------------------
-The name of the vector files follow the scheme `WxD_y`, where `x` represents the number of dimensions or objectives and `y` is the number of vectors.
+The name of the vector files follow the scheme `WxD_y.dat`, where `x` represents the number of dimensions or objectives and `y` is the number of vectors.
 
 +---------------+-----------------------------------------+
 | Objectives    | Number of vectors                       |                       
