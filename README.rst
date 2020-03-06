@@ -3,9 +3,10 @@ Mooses: Multiobjective optimization resources
 
 The Mooses project is intended to provide a repository of resources for multiobjective optimization with mateheuristics. It currently contains reference Pareto fronts for benchmark problems and weight vectors taken from the jMetal framework (https://github.com/jMetal/jMetal). We provide the files in TXT and CSF formats.
 
+
 Weight vector files
 -------------------
-The name of the vector files follow the scheme ``WxD_y.dat``, where ``x`` represents the number of dimensions or objectives and ``y`` is the number of vectors. As the reference fronts, the repository contains TXT and CSF data files.
+The name of the vector files follow the scheme ``WxD_y.dat``, where ``x`` represents the number of dimensions or objectives and ``y`` is the number of vectors. 
 
 +---------------+----------------------------------------------+
 | Objectives    | Number of vectors                            |                       
